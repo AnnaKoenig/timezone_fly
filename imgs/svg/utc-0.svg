@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="360px" height="660px" viewBox="0 0 360 660" enable-background="new 0 0 360 660" xml:space="preserve">
+<rect x="-13.4" y="-13.393" display="none" fill="#939598" width="382.481" height="679.466"/>
+<polygon fill="#3F565D" points="162.399,4.071 162.399,138.752 94.151,138.752 94.151,161.623 162.399,161.623 162.399,190.423 
+	162.399,229.387 162.399,254.799 185.38,254.799 185.38,232.387 218.66,192 218.66,4.071 "/>
+<polygon fill="#3F565D" points="191.434,407.741 222.852,407.741 222.852,655.928 163.304,655.928 163.304,583.08 136.097,583.08 
+	136.097,551.74 163.304,551.74 163.304,450.287 137.771,450.287 137.771,442.664 163.304,442.664 163.304,411.13 128.01,384.87 
+	128.01,300.554 161.057,267.13 184.809,286.094 175.381,314.881 212.255,351.174 191.434,380.635 "/>
+<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" cx="185.833" cy="213" r="6.007"/>
+<text transform="matrix(1 0 0 1 196.8408 212.9998)" fill="#FFFFFF" font-family="'Oswald-Regular'" font-size="24">London</text>
+<text transform="matrix(1 0 0 1 101.8408 341.6658)" fill="#FFFFFF" font-family="'Oswald-Light'" font-size="12">Mauritania</text>
+<text transform="matrix(1 0 0 1 189.833 242.6667)" fill="#FFFFFF" font-family="'Oswald-Light'" font-size="12">France</text>
+<image display="none" overflow="visible" opacity="0.4" enable-background="new    " width="4000" height="2120" xlink:href="map.png"  transform="matrix(0.32 0 0 0.3244 -410.6021 -21.6692)">
+</image>
+<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="185.833" y1="4.078" x2="185.833" y2="655.922"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="84" y1="154" x2="84" y2="195.603"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="68" y1="189.073" x2="68" y2="230.676"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="84" y1="226.021" x2="84" y2="267.624"/>
+</svg>
